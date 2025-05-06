@@ -3,7 +3,7 @@ Numerical solver for a damped, linear wave equation on spherically symmetric, se
 
 Solves the linear equation 
 ```math
-\partial_s \partial_z (r\phi) - (1-k) |z| \partial_z^2 (r\phi) + c \partial_z (r\phi) + V(z) (r\phi) =0,
+\partial_s \partial_z (r\phi) - (1-k^2) |z| \partial_z^2 (r\phi) + c \partial_z (r\phi) + V(z) (r\phi) =0,
 ```
 where $k >0$ is a small parameter, $c$ a damping parameter, and $V(z)$ a potential. The equation is defined on a domain 
 ```math
