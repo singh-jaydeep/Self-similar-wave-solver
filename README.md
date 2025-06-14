@@ -15,5 +15,5 @@ This equation governs spherically symmetric waves on a $3+1$-dimensional self-si
 ```math
 (s,z) = (-\log|u|, v|u|^{-1+k^2}).
 ```
-The coordinate $z$ parameterizes integral curves of the self-similar vector field, and $s$ is the natural time coordinate. If $k = c = 0$ and $V(z) = 0$, recover the wave equation on a subset of Minkowski spacetime. If $k \in (0,1)$, $c = 0$, and $V(z)$ is chosen appropriately, we model the $k$-self-similar spacetimes introduced in [this paper](https://www.jstor.org/stable/2118619).
+The coordinate $z$ parameterizes integral curves of the self-similar vector field, and $s$ is the natural time coordinate. If $k = c = 0$ and $V(z) = 0$, recover the wave equation on a subset of Minkowski spacetime. If $k \in (0,1)$, $c = 1-k^2$, and $V(z)$ is chosen appropriately, we model the $k$-self-similar spacetimes introduced in [this paper](https://www.jstor.org/stable/2118619).
 
